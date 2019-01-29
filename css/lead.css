@@ -291,6 +291,9 @@ a.casa-card:hover {
 	.rego-status:before{content:'Rego Status:';font-weight:bold;display:block;}
 	.rego-type:before{content:'Rego Status:';font-weight:bold;display:block;}
 	.xs-hidden{display: none!important;visibility: hidden;}
+	
+	
+	.mycasa{width:100% !important;}
 
 }
 
